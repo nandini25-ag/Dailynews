@@ -1,0 +1,206 @@
+{
+  "status": "ok",
+  "totalResults": 38,
+  "articles": [
+    {
+      "source": { "id": null, "name": "New York Times" },
+      "author": "Apoorva Mandavilli",
+      "title": "Who Is Protected Against Monkeypox? - The New York Times",
+      "description": "Older people who received smallpox vaccinations may yet have some immunity, researchers say. Healthy children and adults generally do not become severely ill.",
+      "url": "https://www.nytimes.com/2022/05/26/health/monkeypox-vaccine-immunity.html",
+      "urlToImage": "https://static01.nyt.com/images/2022/05/26/science/26monkeypox2/26monkeypox2-facebookJumbo.jpg",
+      "publishedAt": "2022-05-26T16:04:06Z",
+      "content": "Until we know more, we will be using available vaccine stocks for people whove had close contact with known cases, and people at highest risk for exposure through their jobs, like health care workers… [+2648 chars]"
+    },
+    {
+      "source": { "id": "reuters", "name": "Reuters" },
+      "author": null,
+      "title": "UK prosecutors charge actor Kevin Spacey with sex crimes - Reuters.com",
+      "description": "Oscar-winning actor Kevin Spacey has been charged with sex offences including assaults on three men following an investigation by police in London, Britain's Crown Prosecution Service (CPS) said on Thursday.",
+      "url": "https://www.reuters.com/world/uk/uk-prosecutor-charges-actor-kevin-spacey-with-sexual-assault-2022-05-26/",
+      "urlToImage": "https://www.reuters.com/resizer/ZqmfH2LCqjRYtyZcfGt39zuNjsM=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WBBDBMMRUZOGVD3RWSCT76AHXI.jpg",
+      "publishedAt": "2022-05-26T15:35:00Z",
+      "content": "LONDON, May 26 (Reuters) - Oscar-winning actor Kevin Spacey has been charged with sex offences including assaults on three men following an investigation by police in London, Britain's Crown Prosecut… [+2462 chars]"
+    },
+    {
+      "source": { "id": "fox-news", "name": "Fox News" },
+      "author": "Jessica Chasmar",
+      "title": "Schumer blocks Senate GOP school safety bill, angering Republicans - Fox News",
+      "description": "Republicans are calling Sen. Chuck Schumer a liar after he blocked a school safety bill Wednesday that he claimed could put \"more guns in schools.\"",
+      "url": "https://www.foxnews.com/politics/schumer-blocks-senate-gop-school-safety-bill-angering-republicans",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/01/Chuck-Schumer-Senate-Voting-Filibuster.jpg",
+      "publishedAt": "2022-05-26T15:33:14Z",
+      "content": "Senate Majority Leader Chuck Schumer, D-N.Y., on Wednesday blocked a school safety bill that has Republicans crying foul.\r\nAfter the horrific mass shooting at a Uvalde, Texas, elementary school that … [+2890 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CNBC" },
+      "author": "Dan Mangan",
+      "title": "Trump must answer questions under oath in New York AG probe into business practices, appeals court says - CNBC",
+      "description": "Ex-President Donald Trump has repeatedly failed to limit the probe by New York Attorney General Letitia James into Trump Organization business practices.",
+      "url": "https://www.cnbc.com/2022/05/26/trump-must-answer-questions-under-oath-in-new-york-ag-probe-into-business-practices-appeals-court-says.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/105817571-1553705098952rts2f629.jpg?v=1653579067&w=1920&h=1080",
+      "publishedAt": "2022-05-26T15:30:46Z",
+      "content": "An appeals court on Thursday unanimously rejected a bid by former President Donald Trump and two of his adult children to avoid being compelled to answer questions under oath by investigators for New… [+4425 chars]"
+    },
+    {
+      "source": { "id": "reuters", "name": "Reuters" },
+      "author": null,
+      "title": "Global shares rally on relief after Fed minutes - Reuters.com",
+      "description": "World stock markets broadly rose on Thursday and bond yields eased as no hawkish surprises from the latest U.S. Federal Reserve minutes helped soothe immediate worries over the impact of interest rate hikes on economic growth.",
+      "url": "https://www.reuters.com/markets/europe/global-markets-wrapup-1-2022-05-26/",
+      "urlToImage": "https://www.reuters.com/resizer/6ac3u8l1RfuRY0Y9o2UlcPgd52g=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/33TTRSXHSJJCFLAQKDTTDX6A5M.jpg",
+      "publishedAt": "2022-05-26T15:25:00Z",
+      "content": "NEW YORK, May 26 (Reuters) - World stock markets broadly rose on Thursday and bond yields eased as no hawkish surprises from the latest U.S. Federal Reserve minutes helped soothe immediate worries ov… [+3298 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CNBC" },
+      "author": "Amelia Lucas",
+      "title": "Carl Icahn loses proxy fight with McDonald's over animal welfare - CNBC",
+      "description": "Activist investor Carl Icahn lost his proxy fight with McDonald's on Thursday, signaling that shareholders weren't swayed by his animal-welfare concerns.",
+      "url": "https://www.cnbc.com/2022/05/26/carl-icahn-loses-proxy-fight-with-mcdonalds-over-animal-welfare.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/103937625-20160913-9052-2268rr.jpg?v=1650545791&w=1920&h=1080",
+      "publishedAt": "2022-05-26T14:52:08Z",
+      "content": "Activist investor Carl Icahn lost his proxy fight with McDonald's on Thursday, signaling that shareholders weren't swayed by his animal-welfare concerns.\r\nPreliminary counts of votes during the compa… [+2795 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Page Six" },
+      "author": "Riley Cardoza",
+      "title": "Jill Duggar and Derick Dillard react to Josh Duggar's sentencing - Page Six",
+      "description": "“The last several weeks and months have been difficult,” the “Counting On” alums wrote in a statement. “Yesterday was another one of those hard days.”",
+      "url": "https://pagesix.com/2022/05/26/jill-duggar-derick-dillard-react-to-josh-duggars-sentencing/",
+      "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2022/05/jill-dillard-josh-duggar-15.jpg?quality=75&strip=all&w=1200",
+      "publishedAt": "2022-05-26T14:46:00Z",
+      "content": "Jill Duggar is neither rejoicing nor disappointed over brother Josh Duggars prison sentence.\r\nThe pregnant “Counting On” alum, 31, and her husband, Derick Dillard, “are thankful” that the case “is fi… [+2483 chars]"
+    },
+    {
+      "source": { "id": "the-verge", "name": "The Verge" },
+      "author": "Jon Porter",
+      "title": "Logitech MX Mechanical Mini review: a sensible keyboard for sensible people - The Verge",
+      "description": "Sensible features paired with a solid design.",
+      "url": "https://www.theverge.com/23142714/logitech-mx-mechanical-mini-keyboard-review",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/g4D1r6DvaFRJYwlW4-oMvzcmQfE=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23578024/jporter_220516_5225_0002.jpg",
+      "publishedAt": "2022-05-26T14:30:00Z",
+      "content": "If you buy something from a Verge link, Vox Media may earn a commission. See our ethics statement.If last years Logitech Pop Keys wireless mechanical keyboard was all style and no substance, then Log… [+8044 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Guardian" },
+      "author": "Martin Pengelly",
+      "title": "Ted Cruz angrily quits interview after being confronted about gun control - The Guardian US",
+      "description": "Texas senator says ‘I’m sorry you think American exceptionalism is awful’ in response to questions about Uvalde massacre",
+      "url": "https://amp.theguardian.com/us-news/2022/may/26/ted-cruz-angrily-quits-interview-gun-control",
+      "urlToImage": "https://i.guim.co.uk/img/media/79370962b4d38f82de6c18fcc319afb5b620a030/0_117_3500_2101/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9f7a7e54eb86972b9b948092f743514d",
+      "publishedAt": "2022-05-26T14:21:00Z",
+      "content": "The Texas Republican senator Ted Cruz confronted a British reporter and angrily left an interview after he was asked why school shootings like that in Uvalde, where 19 children and two adults were ki… [+2594 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The News International" },
+      "author": "Web Desk",
+      "title": "Caitlyn Jenner missed Kourtney Kardashian’s Italian wedding, here’s why - The News International",
+      "description": "Pictures and videos from Kourtney Kardashian and Travis Barker's lavish Italian wedding took the internet by storm.The glam wedding ceremony was a close-knit affair as Kourtney and Travis only...",
+      "url": "https://www.thenews.com.pk/latest/960933-caitlyn-jenner-missed-kourtney-kardashians-italian-wedding-heres-why",
+      "urlToImage": "https://www.thenews.com.pk/assets/uploads/updates/2022-05-26/960933_054314_updates.jpg",
+      "publishedAt": "2022-05-26T14:21:00Z",
+      "content": "Pictures and videos from Kourtney Kardashian and Travis Barker's lavish Italian wedding took the internet by storm.\r\nThe glam wedding ceremony was a close-knit affair as Kourtney and Travis only invi… [+888 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Deadspin" },
+      "author": "Sam Fels",
+      "title": "Boston Celtics defeat Miami Heat to lead series 3-2 - Deadspin",
+      "description": "Boston takes Game 5 against Miami in another snoozefest, 93-80",
+      "url": "https://deadspin.com/whatever-sport-the-heat-and-celtics-are-playing-it-s-t-1848980513",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/139bac01f2ed5e673bdac0eee5cb644d.jpg",
+      "publishedAt": "2022-05-26T14:18:00Z",
+      "content": "A lot of sports fandom and analysis is about feel vs. facts, which can go pretty haywire at times. It definitely feels like these NBA playoffs have been uniquely blowout-heavy, but it kind of turns o… [+5026 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Betsy Klein, CNN",
+      "title": "K-pop supergroup BTS headed to the White House - CNN",
+      "description": "Korean pop supergroup BTS is set to meet President Joe Biden on Tuesday, the White House announced, a visit aimed at discussing Asian inclusion and representation and addressing anti-Asian hate crimes and disinformation.",
+      "url": "https://www.cnn.com/2022/05/26/politics/k-pop-bts-white-house/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220403225233-32-grammy-awards-2022-super-tease.jpg",
+      "publishedAt": "2022-05-26T13:40:00Z",
+      "content": "(CNN)Korean pop supergroup BTS is set to meet President Joe Biden on Tuesday, the White House announced, a visit aimed at discussing Asian inclusion and representation and addressing anti-Asian hate … [+1872 chars]"
+    },
+    {
+      "source": { "id": null, "name": "New York Post" },
+      "author": "Ben Cost",
+      "title": "'American Pie' singer Don McLean cancels NRA gig after Texas school shooting - New York Post ",
+      "description": "Don McLean is dropping out of this year’s NRA convention in the wake of Tuesday’s deadly mass shooting.",
+      "url": "https://nypost.com/2022/05/26/don-mclean-withdraws-from-nra-gig-after-texas-school-shooting/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/05/don-mclean-82.jpg?quality=75&strip=all&w=1024",
+      "publishedAt": "2022-05-26T12:55:00Z",
+      "content": "It’s bye-bye Mr. “American Pie.”\r\nIn light of Tuesday’s deadly mass shooting in Texas, “American Pie” singer Don McLean announced that he will no longer be performing at this year’s National Rifle As… [+2074 chars]"
+    },
+    {
+      "source": { "id": null, "name": "New York Post" },
+      "author": "Jeremy Layton",
+      "title": "Tensions rise after Cubs reliever throws at Reds' Joey Votto's head - New York Post ",
+      "description": "Tensions rose between two division rivals on Wednesday night, with pitchers head-hunting and managers getting ejected.",
+      "url": "https://nypost.com/2022/05/26/tensions-rise-after-cubs-rowan-wick-throws-at-reds-joey-vottos-head/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/05/newspress-collage-22418553-1653568080206.jpg?quality=75&strip=all&1653553768&w=1024",
+      "publishedAt": "2022-05-26T12:55:00Z",
+      "content": "Tensions rose between NL Central rivals on Wednesday night, with pitchers head-hunting and managers getting ejected.\r\nIn the bottom of the eighth inning between the Cubs and Reds at Great American Ba… [+1962 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Jack Bantock, CNN",
+      "title": "Tom Brady's 'once in a lifetime' golf shot captured in stunning drone footage -- but is it real? - CNN",
+      "description": "A drone video of Tom Brady finding the bottom of the cup from way out on the fairway has the internet wondering if it's real or fake.",
+      "url": "https://www.cnn.com/2022/05/26/golf/tom-brady-golf-drone-the-match-spt-spc-intl/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220526075756-tom-brady-golf-drone-super-tease.jpg",
+      "publishedAt": "2022-05-26T12:53:00Z",
+      "content": "(CNN)He's better known for throwing perfect spirals than his perfect approach shots, but there seemsno limit to Tom Brady's sporting talents. \r\nEnjoying yet another NFL offseason, the seven-time Supe… [+2332 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Guardian" },
+      "author": "Martin Pengelly",
+      "title": "Oklahoma governor signs strictest abortion ban law in US - The Guardian US",
+      "description": "Kevin Stitt approves legislation in effect outlawing all terminations with exceptions for rape and incest",
+      "url": "https://amp.theguardian.com/us-news/2022/may/26/oklahoma-strictest-abortion-ban-law-us-governor",
+      "urlToImage": null,
+      "publishedAt": "2022-05-26T12:34:00Z",
+      "content": "OklahomaKevin Stitt approves legislation in effect outlawing all terminations with exceptions for rape and incest\r\nThe Republican governor of Oklahoma, Kevin Stitt, on Wednesday night signed into law… [+3909 chars]"
+    },
+    {
+      "source": { "id": "ign", "name": "IGN" },
+      "author": "Ryan Dinsdale",
+      "title": "God of War: Ragnarok Rated In South Korea, Suggesting 2022 Release Date - IGN - IGN",
+      "description": "God of War: Ragnarok has received a rating in South Korea, suggesting the game is on track for its 2022 release date.",
+      "url": "https://www.ign.com/articles/god-of-war-ragnarok-rated-in-korea-suggesting-2022-release-date",
+      "urlToImage": "https://assets-prd.ignimgs.com/2022/05/26/gow-1632982321884-1653567746171.png?width=1280",
+      "publishedAt": "2022-05-26T12:23:31Z",
+      "content": "God of War: Ragnarok has received a rating in South Korea, suggesting the game is on track for its 2022 release date.\r\nAs spotted by ResetEra user modiz, Ragaorok was rated as an \"18 and over\" game b… [+1737 chars]"
+    },
+    {
+      "source": { "id": "cbs-news", "name": "CBS News" },
+      "author": null,
+      "title": "Nancy Brophy, romance novelist who wrote \"How to Murder Your Husband,\" found guilty of murdering her husband - CBS News",
+      "description": "Daniel Brophy was killed as he prepped for work at the Oregon Culinary Institute in Southwest Portland on June 2, 2018.",
+      "url": "https://www.cbsnews.com/news/nancy-brophy-guilty-murder-husband-daniel/",
+      "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2018/09/12/6ce39ada-361c-43c7-9c65-c347f6dfdaa2/thumbnail/1200x630/a613500a80bd790ddb43527a6da705bc/s098315846-1.jpg",
+      "publishedAt": "2022-05-26T12:07:00Z",
+      "content": "A jury in Portland has convicted a self-published romance novelist — who once wrote an essay titled \"How to Murder Your Husband\" — of fatally shooting her husband four years ago.\r\nThe jury of seven w… [+3498 chars]"
+    },
+    {
+      "source": { "id": "cbs-news", "name": "CBS News" },
+      "author": "Kate Gibson",
+      "title": "Peanut butter recall: Candy and snacks made with Jif now being recalled - CBS News",
+      "description": "Americans urged not to eat an assorted treats and snacks amid a multistate salmonella outbreak that's sickened 14.",
+      "url": "https://www.cbsnews.com/news/jif-peanut-butter-recall-salmonella-outbreak-candy-snacks-cdc/",
+      "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2022/05/25/8e9cf159-d57b-4047-8a86-e2189d685d31/thumbnail/1200x630/7841a139c036fd9c37566a2f10495d3d/gettyimages-1240818144.jpg",
+      "publishedAt": "2022-05-26T12:01:00Z",
+      "content": "Candy, trail mix and other snacks made with recalled Jif peanut butter are among the growing number of products being pulled from stores and vending machines nationwide as federal health officials in… [+5190 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Fox Business" },
+      "author": "Tyler Olson",
+      "title": "SEC's proposed ESG rule will leave small farms in the lurch, lawmakers from both parties say - Fox Business",
+      "description": "A group of more than 100 Republicans and two vulnerable House Democrats is pressing the SEC to change course on a proposed ESG reporting rule.",
+      "url": "https://www.foxbusiness.com/politics/sec-proposed-esg-rule-leave-small-farms-lurch-lawmakers-both-parties",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2022/03/0/0/gensler-1.jpg?ve=1&tl=1",
+      "publishedAt": "2022-05-26T10:55:28Z",
+      "content": "FIRST ON FOX — More than 100 House members from both parties are attacking a proposed Securities and Exchange Commission (SEC) rule that they say will put \"unworkable\" regulatory requirements on smal… [+4417 chars]"
+    }
+  ]
+}
